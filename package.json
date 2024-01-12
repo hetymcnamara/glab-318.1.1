@@ -1,0 +1,16 @@
+{
+    "name": "318-nodejs",
+    "version": "1.0.0",
+    "description": "a sample project for node and npm",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node index.js "
+    },
+    "author": "Me",
+    "license": "ISC",
+    "keywords": [],
+    "devDependencies": {
+      "nodemon": "^3.0.2"
+    }
+  }
